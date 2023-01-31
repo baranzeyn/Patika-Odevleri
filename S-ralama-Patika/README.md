@@ -1,0 +1,2 @@
+# Sıralama-Patika
+ patika ödevi
